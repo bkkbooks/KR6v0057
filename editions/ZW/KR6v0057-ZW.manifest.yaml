@@ -1,0 +1,146 @@
+canonical_identifier: bkk:krp/KR6v0057/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0057/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 小誦
+  identifiers:
+    krp: KR6v0057
+    cbeta: ZW05n0045
+    cbeta_old_id: ZW05n0045
+    authorityid: CA0008444
+    json_key: ZW0045
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW05/ZW05n0045.xml
+    old_id: ZW05n0045
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0057_000-ZW.yaml, hash: 'sha256:f91df820d1ee580d34cd85f9608a30f1072614cc0809d3ff6d70ff0e6db58b93'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0057_000-ZW.markers.yaml, hash: 'sha256:2b07e62ca2412a9caa9958bfd558eb281b54c9d0354482908e56b7ef54f403f9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-2
+    span:
+    - front
+    - 335
+    - 335
+  label: 譯文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-3
+    span:
+    - front
+    - 337
+    - 337
+  label: 稱誦
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-4
+    span:
+    - front
+    - 350
+    - 350
+  label: 一、三皈文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-5
+    span:
+    - front
+    - 390
+    - 390
+  label: 二、十戒文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-6
+    span:
+    - front
+    - 491
+    - 491
+  label: 三、三十二身份
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-7
+    span:
+    - front
+    - 543
+    - 543
+  label: 四、問沙彌文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-8
+    span:
+    - front
+    - 744
+    - 744
+  label: 五、吉祥經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-9
+    span:
+    - front
+    - 1048
+    - 1048
+  label: 六、寶經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-10
+    span:
+    - front
+    - 1695
+    - 1695
+  label: 七、戶外經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-11
+    span:
+    - front
+    - 1939
+    - 1939
+  label: 八、伏藏經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0057_ZW_000-mulu-12
+    span:
+    - front
+    - 2263
+    - 2263
+  label: 九、慈悲經
+  type: mulu
+  level: 1
+hash: sha256:2c230ddb321464f38efba61ab998837f046abf77238f80e6f678df657743f257
