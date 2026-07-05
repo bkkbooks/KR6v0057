@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0057_000.yaml, hash: 'sha256:a43c0d585ec0226c50d60ca25e99dc3a4be3ff86511e8268ece6367a86492035'}
+  - {seq: 0, filename: KR6v0057_000.yaml, hash: 'sha256:f91df820d1ee580d34cd85f9608a30f1072614cc0809d3ff6d70ff0e6db58b93'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0057_000.markers.yaml, hash: 'sha256:cf4de78e6f70103bddfd68e703ed17c017381bc8dbf99bbd7c4596f72ed7ecd4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0057_000.markers.yaml, hash: 'sha256:29935621a10ef057d84a678454da13a623072a89a85b6c16bcdb048955080a45'}
 table_of_contents:
 - ref:
     seq: 0
@@ -140,9 +140,6 @@ table_of_contents:
   label: 九、慈悲經
   type: mulu
   level: 1
-hash: sha256:742ee9494256ed05c4ec7cad3262351744374e5bbc374de9d298af41c5d244d8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:281583edeec0e53f66c90a6ebbc676a68e7945475d9934e1ea431495e352f2f3
 editions:
 - short: ZW
